@@ -24,6 +24,6 @@ The game is developed by using Tailwind CSS for styling, TypeScript for structur
 Thank you for playing Poro-Clicker! We hope you have a lot of fun and enjoy the game as much as we enjoyed creating it.
 
 
-### Feel free to visit the page 
+### Feel free to visit 
 
-https://github.com/users/Onllsan/projects/1/views/1
+https://lionelfloriani.github.io/cookie-clicker

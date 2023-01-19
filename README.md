@@ -6,7 +6,7 @@ Welcome to Poro-Clicker, a fun and addictive game inspired by League of Legends.
 
 ## See it live
 
-Click here to see the [live version](https://lionelfloriani.github.io/poro-clicker/)
+Click here to see the [live version](https://onllsan.github.io/poro-clicker/)
 ## Technologies Used
 
 - HTML

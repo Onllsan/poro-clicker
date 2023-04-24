@@ -1,4 +1,4 @@
-# Poro-Clicker
+# Poro-Clicker 🍪
 
 Welcome to [Poro-Clicker](https://onllsan.github.io/poro-clicker/), a fun and addictive game inspired by League of Legends. In this game, players click on cute and fluffy Poros to earn points and unlock new features.
 
